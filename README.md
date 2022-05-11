@@ -1,7 +1,7 @@
 ## About me 👋
 - 👋 Hi, I’m @robomajor
 - 👀 I’m interested in developing systems for finance and stocks market
-- 🌱 I’m currently learning scala and java (which, right now, is my main language)
+- 🌱 I’m currently working in my job mainly in Scala and Kotlin
 
 
 ## :trophy: My Github Stats:
